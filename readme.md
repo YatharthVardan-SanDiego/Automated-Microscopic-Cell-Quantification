@@ -62,6 +62,9 @@ The Tiled approach dominated in cell lines with small, clustered morphologies (e
 | csrnet.ipynb | Implementation , Visualisation and data prep for CSRNet|
 | processing.ipynb | Exploratory Data Analysis and Visualisation of problem statement|
 | description.ipynb | Descriptive statistics for the training , testing & validation data|
+
+---
+
 👥 Contributors
 • Yatharth Vardan - Lead Developer, Model Architecture, Data Pipeline
 --- 
