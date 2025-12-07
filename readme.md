@@ -46,9 +46,6 @@ We implemented a dilated convolutional network to regress a pixel-wise density m
 ### Loss Convergence (Naive vs. Tiled)
 The Tiled model (Green) converged to a lower final loss than the Naive model (Red), proving that higher-resolution inputs allow the Feature Pyramid Network (FPN) to extract sharper boundaries.
 
-![Loss Graph](loss_comparison.png)
-*(Note: Generate this graph using `plot_loss_manual.py` if not already saved)*
-
 ### Accuracy by Cell Type
 The Tiled approach dominated in cell lines with small, clustered morphologies (e.g., *SH-SY5Y*), resolving individual instances that were blurred in the Naive approach.
 
