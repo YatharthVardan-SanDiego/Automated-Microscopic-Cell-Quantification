@@ -54,3 +54,13 @@ The Tiled approach dominated in cell lines with small, clustered morphologies (e
 | **SH-SY5Y** (Neuroblastoma) | 48.2% | **53.5%** | 🟢 Tiled (+5.3%) |
 | **A172** (Glioblastoma) | 61.0% | **62.8%** | 🟢 Tiled (+1.8%) |
 
+
+👥 Contributors
+• Yatharth Vardan - Lead Developer, Model Architecture, Data Pipeline
+--- 
+
+📚 References
+1. LIVECell Dataset: Edlund et al., Nature Methods (2021).
+2. Mask R-CNN: He et al., ICCV (2017).
+3. CSRNet: Li et al., CVPR (2018).
+
