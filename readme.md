@@ -54,7 +54,14 @@ The Tiled approach dominated in cell lines with small, clustered morphologies (e
 | **SH-SY5Y** (Neuroblastoma) | 48.2% | **53.5%** | 🟢 Tiled (+5.3%) |
 | **A172** (Glioblastoma) | 61.0% | **62.8%** | 🟢 Tiled (+1.8%) |
 
-
+---
+## Notebooks
+| Name | Description |
+| :--- | :--- |
+| Maskrcnn.ipynb | Implementation , Visualisation and data prep for Mask R-CNN|
+| csrnet.ipynb | Implementation , Visualisation and data prep for CSRNet|
+| processing.ipynb | Exploratory Data Analysis and Visualisation of problem statement|
+| description.ipynb | Descriptive statistics for the training , testing & validation data|
 👥 Contributors
 • Yatharth Vardan - Lead Developer, Model Architecture, Data Pipeline
 --- 
