@@ -65,6 +65,13 @@ The Tiled approach dominated in cell lines with small, clustered morphologies (e
 
 ---
 
+## Checkpoint Models
+| Model name | Location | Description |
+| Tiled Mask R-CNN | https://drive.google.com/file/d/1Acl6qZAA8-SCeVWFl2Jz3VgPSrQ1ue53/view?usp=sharing | This folder consists of the checkpoint epochs after training the Mask R-CNN model on tiled input |
+| Naive Mask R-CNN | https://drive.google.com/file/d/1YGNpB1xFUKtWvdl4zGKWyUMUW-3Ugla0/view?usp=sharing | This folder consists of the checkpoint epochs after training the Mask R-CNN model on naive input |
+
+---
+
 👥 Contributors
 • Yatharth Vardan - Lead Developer, Model Architecture, Data Pipeline
 --- 
